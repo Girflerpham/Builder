@@ -1,0 +1,6 @@
+﻿  ConcreteAirBus.cpp
+D:\Visual Studio\HK1_2\Builder\Builder\Builder\ConcreteAirBus.cpp(6,27): warning C4305: '=': truncation from 'double' to 'float'
+D:\Visual Studio\HK1_2\Builder\Builder\Builder\ConcreteAirBus.cpp(12,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+  Generating Code...
+  Builder.vcxproj -> D:\Visual Studio\HK1_2\Builder\Builder\Debug\Builder.exe
